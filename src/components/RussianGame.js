@@ -191,14 +191,3 @@ width: 100px;
 height: 50px;
 background-color: darkcyan;
 `
-
-//
-{/* <Num key={0} value={this.state.cells[0][0]} onClick={() => this.moveDivs(0, 0)}>{this.state.cells[0][0]}</Num>
-                    <Num key={1} value={this.state.cells[0][1]} onClick={() => this.moveDivs(0, 1)}>{this.state.cells[0][1]}</Num>
-                    <Num key={2} value={this.state.cells[0][2]} onClick={() => this.moveDivs(0, 2)}>{this.state.cells[0][2]}</Num>
-                    <Num key={3} value={this.state.cells[1][0]} onClick={() => this.moveDivs(1, 0)}>{this.state.cells[1][0]}</Num>
-                    <Num key={4} value={this.state.cells[1][1]} onClick={() => this.moveDivs(1, 1)}>{this.state.cells[1][1]}</Num>
-                    <Num key={5} value={this.state.cells[1][2]} onClick={() => this.moveDivs(1, 2)}>{this.state.cells[1][2]}</Num>
-                    <Num key={6} value={this.state.cells[2][0]} onClick={() => this.moveDivs(2, 0)}>{this.state.cells[2][0]}</Num>
-                    <Num key={7} value={this.state.cells[2][1]} onClick={() => this.moveDivs(2, 1)}>{this.state.cells[2][1]}</Num>
-                    <Num key={8} value={this.state.cells[2][2]} onClick={() => this.moveDivs(2, 2)}>{this.state.cells[2][2]}</Num> */}
